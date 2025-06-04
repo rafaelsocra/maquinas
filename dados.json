@@ -1,0 +1,12 @@
+{
+  "imagens": [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg"
+  ],
+  "sons": [
+    "som1.mp3",
+    "som2.mp3",
+    "som3.mp3"
+  ]
+}
